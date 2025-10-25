@@ -2,19 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://ealc.uchicago.edu/'>Dept. of East Asian Languages & Civilizations, University of Chicago</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Wieboldt Hall 301</p>
+    <p>Chicago, IL 60637</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,13 +21,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Andrew W. Mellon Professor of Japanese Literature and Digital Studies. My research and teaching interests range from literature, media, and book history to platform studies, cultural analytics, and generative AI. My most recent book, [*The Values in Numbers: Reading Japanese Literature in a Global Information Age*](https://cup.columbia.edu/book/the-values-in-numbers/9780231193511/) (2021), offers both a reinterpretation of modern Japanese literature through computational methods and an introduction to the history, theory, and practice of looking at literature through numbers. Since then, I've written articles that rethink literary translation in the wake of neural machine translation, that explore how platforms are reshaping global televisual attention and response, and that consider the possibilities of generative AI for cultural co-intelligence. I'm currently collaborating on projects that include *Niche Worlds: How Streaming Platforms Changed Attention and Reception* and a set of studies that investigate the limits and affordances of large-language models as readers, writers, and instructors of literature.
