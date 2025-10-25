@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Andrew W. Mellon Professor of Japanese Literature and Digital Studies</n><a href='https://ealc.uchicago.edu'>Department of East Asian Languages & Civilizations</a>, University of Chicago
+subtitle: Andrew W. Mellon Professor of Japanese Literature and Digital Studies<br><a href='https://ealc.uchicago.edu'>Department of East Asian Languages & Civilizations</a>, University of Chicago
 
 profile:
   align: right
