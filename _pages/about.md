@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ealc.uchicago.edu/'>Dept. of East Asian Languages & Civilizations, University of Chicago</a>
+subtitle: <a href='https://ealc.uchicago.edu'>Dept. of East Asian Languages & Civilizations</a>, University of Chicago
 
 profile:
   align: right
