@@ -3,10 +3,11 @@
     "name": "Hoyt Long",
     "label": "",
     "image": "",
+    "office": "Classics 402",
     "email": "hoytlong@uchicago.edu",
     "phone": "",
     "website": "https://hoytlong.github.io",
-    "socials": "@hoytlong.bsky.social",
+    "socials": "@hoytlong.bsky.social", 
     "summary": "",
     "location": {
       "address": "301 Wieboldt Hall",
@@ -25,7 +26,7 @@
   },
   "work": [
     {
-      "name": "Department of East Asian Languages and Civilizations, University of Chicago",
+      "name": "East Asian Languages and Civilizations, University of Chicago",
       "position": "Professor of Japanese Literature and Digital Studies",
       "url": "https://ealc.uchicago.edu",
       "startDate": "2011-07-01",
@@ -63,7 +64,7 @@
       "summary": ""
     }
   ],
-  "monographs": [
+  "publications": [
     {
       "name": "The Values in Numbers: Reading Japanese Literature in a Global Information Age",
       "publisher": "Columbia University Press",
@@ -102,7 +103,7 @@
     },
     {
       "name": "Humanistic AI",
-      "summary": "Impact of Generative AI on humanistic knowledge production and creativity.",
+      "summary": "Studying the impact of Generative AI on humanistic knowledge production and creativity.",
       "highlights": "",
       "startDate": "2025-10-15",
       "endDate": "",
