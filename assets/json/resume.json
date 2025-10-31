@@ -35,13 +35,13 @@
       "highlights": ["Japanese Literature", "Media Studies", "Book History", "Environmental Humanities", "Cultural Analytics", "Cultural AI"]
     },
     {
-      "name": "Advisory and Editorial Work",
-      "position": "",
+      "name": "",
+      "position": "Advisory and Editorial Board Work",
       "url": "",
-      "startDate": "2017-07-01",
+      "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": ["*Computational Humanities Research*", "*Journal of Cultural Analytics*", "*Japanese Journal of Digital Humanities*", "Authors Alliance", "Journal of Social and Cultural Possibilities"]
+      "highlights": ["Computational Humanities Research", "Journal of Cultural Analytics", "Japanese Journal of Digital Humanities", "Authors Alliance", "Journal of Social and Cultural Possibilities"]
     }
   ],
   "education": [
