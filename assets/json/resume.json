@@ -6,6 +6,7 @@
     "email": "hoytlong@uchicago.edu",
     "phone": "",
     "website": "https://hoytlong.github.io",
+    "socials": "@hoytlong.bsky.social"
     "summary": "",
     "location": {
       "address": "301 Wieboldt Hall",
@@ -25,7 +26,7 @@
   "work": [
     {
       "name": "Department of East Asian Languages and Civilizations, University of Chicago",
-      "position": "Andrew W. Mellon Professor of Japanese Literature and Digital Studies",
+      "position": "Professor of Japanese Literature and Digital Studies",
       "url": "https://ealc.uchicago.edu",
       "startDate": "2011-07-01",
       "endDate": "",
@@ -55,26 +56,26 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": ""
     }
   ],
-  "publications": [
+  "monographs": [
     {
-      "name": "The Values in Numbers",
+      "name": "The Values in Numbers: Reading Japanese Literature in a Global Information Age",
       "publisher": "Columbia University Press",
       "releaseDate": "2021",
-      "url": "",
+      "url": "https://cup.columbia.edu/book/the-values-in-numbers/9780231193511/",
       "summary": ""
     },
     {
-      "name": "On Uneven Ground",
+      "name": "On Uneven Ground: Miyazawa Kenji and the Making of Place in Modern Japan",
       "publisher": "Stanford University Press",
       "releaseDate": "2011",
-      "url": "",
+      "url": "https://www.sup.org/books/asian-studies/uneven-ground",
       "summary": ""
     }
   ],
@@ -92,12 +93,20 @@
   ],
   "projects": [
     {
+      "name": "Cultural Intelligence Lab",
+      "summary": "Leveraging cultural theory, critical insight, and computational tools to understand the impacts of technological systems on cultural intelligence.",
+      "highlights": "",
+      "startDate": "2024-7-01",
+      "endDate": "",
+      "url": "https://culturalintelligencelab.github.io/"
+    },
+    {
       "name": "Humanistic AI",
       "summary": "Impact of Generative AI on humanistic knowledge production and creativity.",
       "highlights": "",
       "startDate": "2025-10-15",
       "endDate": "",
-      "url": "https://example.com"
+      "url": "https://neubauercollegium.uchicago.edu/research/humanistic-ai#"
     }
   ]
 }
