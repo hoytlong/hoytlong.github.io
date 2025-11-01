@@ -7,14 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-*Undergraduate*
+***Undergraduate***
 
 - Reality TV in East Asia (w/ Angie Heo)
 - The Modern Japanese Novel
 - Imagining Environment in East Asia
 - The Novel in East Asia: Past, Present, and Future
 
-*Graduate*
+***Graduate***
 
 - Platforming Culture in East Asia: From Newspapers to Web 2.0
 - Introduction to Cultural Analytics
@@ -26,7 +26,7 @@ nav_order: 6
 - Media, History, East Asia
 - The Question of Minor Literature in Modern Japan
 
-*Student Advising and Mentorship*
+***Student Advising and Mentorship***
 
 If you're a student interested in getting involved in any of my ongoing research projects, or are in search of an adviser, please feel free to contact me. I've advised PhD, MA, and undergraduate students in EALC, DIGS, MAPH, MACSS, and MAPHS on a wide range of thesis topics, including:
 
