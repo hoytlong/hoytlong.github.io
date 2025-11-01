@@ -436,6 +436,11 @@ ninja.data = [{
           description: "The digital component of the History of Black Writing (HBW) that endeavors to increase the number of Black-authored texts available for scholarly engagement and teaching.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-world-literature-data-collective",
+          title: 'World Literature Data Collective',
+          description: "An open consortium of researchers dedicated to building a corpus of contemporary fiction from around the globe.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
