@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-niche-worlds",
           title: 'Niche Worlds',
-          description: "A co-authored book project on how streaming platforms change how we think about attention and reception.",
+          description: "How streaming platforms change how we think about attention and reception.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-cultural-intelligence-lab",
