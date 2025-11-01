@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: courses taught at UChicago
+title: teaching and advising
+description: courses and student advising at UChicago
 nav: true
 nav_order: 6
 ---
@@ -26,7 +26,7 @@ nav_order: 6
 - Media, History, East Asia
 - The Question of Minor Literature in Modern Japan
 
-*Advising*
+*Student Advising and Mentorship*
 
 If you're a student interested in getting involved in any of my ongoing research projects, or are in search of an adviser, please feel free to contact me. I've advised PhD, MA, and undergraduate students in EALC, DIGS, MAPH, MACSS, and MAPHS on a wide range of thesis topics, including:
 
