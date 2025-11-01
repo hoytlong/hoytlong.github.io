@@ -25,3 +25,19 @@ nav_order: 6
 - Network Analysis, Literary Criticism, and the Digital Humanities
 - Media, History, East Asia
 - The Question of Minor Literature in Modern Japan
+
+*Advising*
+
+If you're a student interested in getting involved in any of my ongoing research projects, or are in search of an adviser, please feel free to contact me. I've advised PhD, MA, and undergraduate students in EALC, DIGS, MAPH, MACSS, and MAPHS on a wide range of thesis topics, including:
+
+- Postmodern Aesthetics/Philosophy
+- The Japanese I-Novel
+- Korean Popular Music and Literature
+- Voice and Japanese Media
+- Mid-Century Global Modernisms
+- Book Bans and LGBTQ+ Literature
+- Gender and Social Media in China
+- The Feminine Grotesque in Modern Japanese Literature
+- Language Play and Online Discourse in China
+- Japanese Otaku Culture
+- Japanese Science Fiction
