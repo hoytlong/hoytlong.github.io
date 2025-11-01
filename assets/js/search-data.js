@@ -431,9 +431,9 @@ ninja.data = [{
           description: "Reimagining Humanistic Pursuits in the Age of Generated Media",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-black-book-interactive-project",
+          title: 'Black Book Interactive Project',
+          description: "The digital component of the History of Black Writing (HBW) that endeavors to increase the number of Black-authored texts available for scholarly engagement and teaching.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
