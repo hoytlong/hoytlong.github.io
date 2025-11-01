@@ -446,6 +446,11 @@ ninja.data = [{
           description: "An open consortium of researchers dedicated to building a corpus of contemporary fiction from around the globe.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-noveltm",
+          title: 'NovelTM',
+          description: "A partnership to create a community of trust and mutual interest around issues of data and literary study.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
