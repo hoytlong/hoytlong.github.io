@@ -426,6 +426,11 @@ ninja.data = [{
           description: "Leveraging cultural theory, critical insight, and computational tools to understand the impacts of technological systems on cultural intelligence.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-textual-optics-lab",
+          title: 'Textual Optics Lab',
+          description: "A Digital Humanities Lab centered on the concept and practice of scalable reading.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-humanistic-ai",
           title: 'Humanistic AI',
           description: "Reimagining Humanistic Pursuits in the Age of Generated Media",
