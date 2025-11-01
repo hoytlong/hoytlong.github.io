@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description: ongoing and past research collaborations
 nav: true
 nav_order: 3
 display_categories: [ongoing,past]
