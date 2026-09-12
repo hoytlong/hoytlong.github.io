@@ -62,7 +62,21 @@
       "endDate": "1998-07-01"
     }  
   ],
-  "awards": [
+  "awards and grants": [
+    {
+      "title": "Understanding Human Storytelling through the Limits of Generative AI",
+      "date": "2026",
+      "awarder": "Schmidt Sciences HAVI Program",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Humanistic AI: Reimagining Humanistic Pursuits in the Age of Generated Media",
+      "date": "2025-2027",
+      "awarder": "Neubauer Family Collegium for Culture and Society",
+      "url": "",
+      "summary": ""
+    },
     {
       "title": "Mellon New Directions Fellow",
       "date": "2016-2019",
